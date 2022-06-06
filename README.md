@@ -21,4 +21,6 @@
     - Remember to save the file!
 <br><br>
 
-### For better understanding of setting up the application and testing the api routes, watch this video:
+### For better understanding of setting up the application and testing the api routes, watch this video: <br><br>
+
+[![Link to walkthrough video](./Develop/img/walkthrough.jpg)](https://youtu.be/2T6RXdmlKvs)
